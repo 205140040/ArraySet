@@ -86,9 +86,7 @@ The JavaDoc for this method states:
   - You may use any of the templated methods provided by AbstractSet or AbstractCollection, and these also will serve as good methods to use in your JUnit tests since they implicitly call the methods you have overridden.
 - Documentation using javadoc for each method.
  
-## Submission
- 
- As always, the last pushed commit prior to the due date will be graded.
+
  
  
 
