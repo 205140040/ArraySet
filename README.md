@@ -1,4 +1,4 @@
-# CSC 335 ArraySet
+# ArraySet
 
 An ArraySet will be a set that is implemented using an arrays of type Object.
 
